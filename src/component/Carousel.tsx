@@ -1,5 +1,4 @@
 "use client";
-
 import { RevealWrapper } from "next-reveal";
 import Image from "next/image";
 import React from "react";
