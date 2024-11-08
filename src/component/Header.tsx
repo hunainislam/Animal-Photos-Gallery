@@ -6,7 +6,7 @@ export default function Header() {
     <div>
       <header>
         <nav>
-          <Link href={"/moose"} className="text-[#f1683a]">
+          <Link href={"/"} className="text-[#f1683a]">
             Moose
           </Link>
           <Link href={"/deer"}>Deer</Link>

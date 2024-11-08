@@ -9,7 +9,7 @@ export default function ElephentComponent() {
   const router = useRouter();
 
   const mooseNavigation = () => {
-    router.push("/moose");
+    router.push("/");
   };
   const deerNavigation = () => {
     router.push("/deer");
